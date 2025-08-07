@@ -21,7 +21,7 @@ This fork upgrades the original **ngx-admin** template to **Angular 11.2** and *
 #### Quick start
 
 ```bash
-git clone https://github.com/your-org/ngx-admin-modern.git
+git clone https://github.com/igor-korost/ngx-admin-modern.git
 cd ngx-admin-modern
 npm install
 ng serve          # dev server at http://localhost:4200
